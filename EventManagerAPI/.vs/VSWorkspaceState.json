@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EventManagerAPI",
+    "\\EventManagerAPI\\Controllers",
+    "\\EventManagerAPI\\Database",
+    "\\EventManagerAPI\\Migrations",
+    "\\EventManagerAPI\\Models",
+    "\\EventManagerAPI\\obj"
+  ],
+  "SelectedNode": "\\EventManagerAPI\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

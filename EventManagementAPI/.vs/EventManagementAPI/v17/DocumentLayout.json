@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|c:\\users\\lenovo\\source\\repos\\eventmanagementapi\\eventmanagementapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|solutionrelative:eventmanagementapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|c:\\users\\lenovo\\source\\repos\\eventmanagementapi\\eventmanagementapi\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|solutionrelative:eventmanagementapi\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|c:\\users\\lenovo\\source\\repos\\eventmanagementapi\\eventmanagementapi\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|solutionrelative:eventmanagementapi\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EventDB/True/SqlTable/dbo.Guests.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EventDB/True/SqlTable/dbo.Events.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|c:\\users\\lenovo\\source\\repos\\eventmanagementapi\\eventmanagementapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|solutionrelative:eventmanagementapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|c:\\users\\lenovo\\source\\repos\\eventmanagementapi\\eventmanagementapi\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|solutionrelative:eventmanagementapi\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|c:\\users\\lenovo\\source\\repos\\eventmanagementapi\\eventmanagementapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|solutionrelative:eventmanagementapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EventDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|c:\\users\\lenovo\\source\\repos\\eventmanagementapi\\eventmanagementapi\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|solutionrelative:eventmanagementapi\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|c:\\users\\lenovo\\source\\repos\\eventmanagementapi\\eventmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|solutionrelative:eventmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|c:\\users\\lenovo\\source\\repos\\eventmanagementapi\\eventmanagementapi\\models\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|solutionrelative:eventmanagementapi\\models\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|c:\\users\\lenovo\\source\\repos\\eventmanagementapi\\eventmanagementapi\\services\\vendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|solutionrelative:eventmanagementapi\\services\\vendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|c:\\users\\lenovo\\source\\repos\\eventmanagementapi\\eventmanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|solutionrelative:eventmanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|c:\\users\\lenovo\\source\\repos\\eventmanagementapi\\eventmanagementapi\\repositories\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|solutionrelative:eventmanagementapi\\repositories\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|c:\\users\\lenovo\\source\\repos\\eventmanagementapi\\eventmanagementapi\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|solutionrelative:eventmanagementapi\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|c:\\users\\lenovo\\source\\repos\\eventmanagementapi\\eventmanagementapi\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|solutionrelative:eventmanagementapi\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|c:\\users\\lenovo\\source\\repos\\eventmanagementapi\\eventmanagementapi\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|solutionrelative:eventmanagementapi\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|c:\\users\\lenovo\\source\\repos\\eventmanagementapi\\eventmanagementapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003BB964-15B8-4EDD-A9DE-68C4610B6C2F}|EventManagementAPI\\EventManagementAPI.csproj|solutionrelative:eventmanagementapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EventDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EventDB/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-05T17:58:17.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Guests [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EventDB/True/SqlTable/dbo.Guests.sql",
+              "ToolTip": "dbo.Guests [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-05T17:58:04.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Events.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EventDB/True/SqlTable/dbo.Events.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EventDB/True/SqlTable/dbo.Events.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-05T17:57:57.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "EventManagementAPI\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Services\\CategoryService.cs",
+              "RelativeToolTip": "EventManagementAPI\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T12:57:44.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Models\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "EventManagementAPI\\Models\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Models\\UpdateUserDto.cs",
+              "RelativeToolTip": "EventManagementAPI\\Models\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:39:05.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EventManagementAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EventManagementAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAIwK0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:17:55.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "EventManagementAPI\\Services\\EventService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Services\\EventService.cs",
+              "RelativeToolTip": "EventManagementAPI\\Services\\EventService.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAQwMUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:08:37.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Repositories\\EventRepository.cs",
+              "RelativeDocumentMoniker": "EventManagementAPI\\Repositories\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Repositories\\EventRepository.cs",
+              "RelativeToolTip": "EventManagementAPI\\Repositories\\EventRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:09:38.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EventManagementAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Models\\User.cs",
+              "RelativeToolTip": "EventManagementAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:51:54.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "EventManagementAPI\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "EventManagementAPI\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:17:03.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VendorService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Services\\VendorService.cs",
+              "RelativeDocumentMoniker": "EventManagementAPI\\Services\\VendorService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Services\\VendorService.cs",
+              "RelativeToolTip": "EventManagementAPI\\Services\\VendorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:51:13.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "EventManagementAPI\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Services\\UserService.cs",
+              "RelativeToolTip": "EventManagementAPI\\Services\\UserService.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAIwJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:58:41.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Repositories\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "EventManagementAPI\\Repositories\\IEventRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Repositories\\IEventRepository.cs",
+              "RelativeToolTip": "EventManagementAPI\\Repositories\\IEventRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADgvxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:55:00.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "EventManagementAPI\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Controllers\\EventController.cs",
+              "RelativeToolTip": "EventManagementAPI\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAUwFgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:07:52.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "EventManagementAPI\\Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Models\\Venue.cs",
+              "RelativeToolTip": "EventManagementAPI\\Models\\Venue.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:12:01.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "EventManagementAPI\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Models\\Event.cs",
+              "RelativeToolTip": "EventManagementAPI\\Models\\Event.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:12:14.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Models\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "EventManagementAPI\\Models\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Models\\RegisterDTO.cs",
+              "RelativeToolTip": "EventManagementAPI\\Models\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:57:34.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Models\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "EventManagementAPI\\Models\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Models\\LoginDTO.cs",
+              "RelativeToolTip": "EventManagementAPI\\Models\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:57:32.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EventManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EventManagementAPI\\EventManagementAPI\\Program.cs",
+              "RelativeToolTip": "EventManagementAPI\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAIcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T18:52:38.366Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
